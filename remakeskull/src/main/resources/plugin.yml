@@ -7,7 +7,7 @@ description: LGW pligin
 
 commands:
   skullgive:
-    description: スカルコマンド
+    description: ヘッド入手コマンド
     permission: Skullgive.permission.skullgive
 
 permissions:
