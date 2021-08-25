@@ -1,0 +1,15 @@
+name: Remakeskull
+version: '${project.version}'
+main: remakeskull.remakeskull.Remakeskull
+api-version: 1.12
+authors: [46kuri_]
+description: LGW pligin
+
+commands:
+  skullgive:
+    description: スカルコマンド
+    permission: Skullgive.permission.skullgive
+
+permissions:
+  Skullgive.permission.skullgive:
+    default: op
