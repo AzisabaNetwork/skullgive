@@ -1,6 +1,6 @@
-name: Remakeskull
+name: skullgive
 version: '${project.version}'
-main: remakeskull.remakeskull.Remakeskull
+main: com.github.sirokuri_.skullgive.skullgive
 api-version: 1.12
 authors: [46kuri_]
 description: LGW pligin
